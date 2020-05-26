@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot que conta piadas ruins",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrecintra/discord-bot.git"
+  },
+  "keywords": [
+    "piadas"
+  ],
+  "author": "André Cintra (andrefcintra@hotmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrecintra/discord-bot/issues"
+  },
+  "homepage": "https://github.com/andrecintra/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
