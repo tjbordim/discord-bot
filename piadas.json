@@ -7,6 +7,11 @@
         "texto": "Qual a cidade brasileira que não tem táxi?",
         "tempo": true,
         "resposta": "Uberlândia."
+    },
+    {
+        "texto": "Qual macarrão que emagrece?",
+        "tempo": true,
+        "resposta": "O SPA guete"
     }
 
 ]
